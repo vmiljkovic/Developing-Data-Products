@@ -18,10 +18,10 @@ shinyUI(
       p('The International Classification of adult underweight, overweight and obesity according to BMI:'),
       tags$div(
         tags$ul(
-          tags$li('BMI <18.5       : Underweight'),
+          tags$li('BMI <18.5        : Underweight'),
           tags$li('BMI [18.5-24.99] : Normal weight'),
           tags$li('BMI [25-29.99]   : Overweight'),
-          tags$li('BMI >=30        : Obesity')
+          tags$li('BMI >=30         : Obesity')
         )
       ),
       
